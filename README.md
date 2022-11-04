@@ -24,13 +24,27 @@ Description:
 <img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/bluehijacking.gif">
 
 
+
+Vulnerability #2: __________________
+
+Description:
+
+<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/bluesqlinjection.gif">
+
 ## Green
 
 Vulnerability #1: __________________
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/greenuserenum.gif">
+
+
+Vulnerability #2: __________________
+
+Description:
+
+<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/greenxss.gif">
 
 
 ## Red
@@ -39,7 +53,13 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="red-vuln1.gif">
+<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/redcrossite.gif">
+
+Vulnerability #2: __________________
+
+Description:
+
+<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/redidor.gif">
 
 
 ## Notes
