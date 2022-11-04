@@ -1,6 +1,6 @@
 # Pen Testing Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -17,9 +17,9 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session Hijacking/Fixation
 
-Description:
+Description: The Session ID is vulnerable as it does not check for duplicates or change the id session to make the login more secure.
 
 <img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/bluehijacking.gif">
 
@@ -27,22 +27,20 @@ Description:
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Scripting (XSS)
 
-Description:
+Description: The user can execute an XSS attack by injecting JavaScript into the the feedback form. I injected and was succesful in my attempt.
 
 <img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/greenxss.gif">
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Description:
+Description: Under the staff information tab, a user can change the staff id in the url to view information that is not even public.
 
 <img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/redidor.gif">
 
 
-## Notes
 
-Describe any challenges encountered while doing the work
