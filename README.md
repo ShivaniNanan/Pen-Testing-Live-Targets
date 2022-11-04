@@ -25,22 +25,9 @@ Description:
 
 
 
-Vulnerability #2: __________________
-
-Description:
-
-<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/bluesqlinjection.gif">
-
 ## Green
 
 Vulnerability #1: __________________
-
-Description:
-
-<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/greenuserenum.gif">
-
-
-Vulnerability #2: __________________
 
 Description:
 
@@ -50,12 +37,6 @@ Description:
 ## Red
 
 Vulnerability #1: __________________
-
-Description:
-
-<img src="https://github.com/ShivaniNanan/Pen-Testing-Live-Targets/blob/main/redcrossite.gif">
-
-Vulnerability #2: __________________
 
 Description:
 
